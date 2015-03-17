@@ -1,0 +1,31 @@
+diff made it easy to find all differences bewteen two versions of the same file,
+regardless of how large the file was
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+---This way I can always backtrack to a known-good state and and see what
+   changes had which effects.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like
+Google docs does?
+   ---You may forget to commit, you may commit too large, but then again you
+      can control how big/small the commit is.  You can focus your commits
+      around tasks.
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+---They realize that multiple files are tightly coupled to provide functions
+   to the programs.
+How can you use the commands git log and git diff to view the history of files?
+---I can get a comprehensive history of the files and the specific changes made
+   to understand which specific versions I should be looking at
+How might using version control make you more confident to make changes that
+could break something?
+---This way I can always revert back to a known-good state without the fear of
+   losing all of my work
+Now that you have your workspace set up, what do you want to try using Git for?
+---I want to make more complex apps in Xcode and use Git to manage my changes
+---I also want to use Git with GitHub to share projects and build cred
+What happens when you initialize a repository? Why do you need to do it?
+---It creates a repo, but it doesn't commit anything, you need to commit
+   yourself

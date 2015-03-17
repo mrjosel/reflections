@@ -33,3 +33,7 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 ---Adds a snapshot of the file you are about to commit, but gives you a chance
    to not commit in case you make or find a mistake
+How can you use the staging area to make sure you have one commit per logical
+change?
+---You can add each logical change to the staging area before committing, then
+   work on the next feature locally without affecting whats in the staging area

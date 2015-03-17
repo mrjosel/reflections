@@ -29,3 +29,7 @@ Now that you have your workspace set up, what do you want to try using Git for?
 What happens when you initialize a repository? Why do you need to do it?
 ---It creates a repo, but it doesn't commit anything, you need to commit
    yourself
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+---Adds a snapshot of the file you are about to commit, but gives you a chance
+   to not commit in case you make or find a mistake
